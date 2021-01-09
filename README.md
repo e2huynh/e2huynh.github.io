@@ -40,11 +40,4 @@ while(!found && !q.empty()) {
 
 [Markdown cheatsheet](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
 
-
-
-
-
-
-
-
 [secret](secret_sauce/secret.md)
