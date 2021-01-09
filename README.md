@@ -1,7 +1,9 @@
-# Ethan Huynh's GitHub Page
-## 3rd Year UCSD Student
+# Ethan Huynh's GitHub Page 3rd Year UCSD Student
 
-How to find the shortest unweighted path from one vertex to another:
+> To know your enemy, you must become your enemy.
+Sun Tzu **Art of War**
+
+### How to find the shortest unweighted path from one vertex to another:
 ```
 while(!found && !q.empty()) {
         string node = q.front().first;
@@ -27,7 +29,7 @@ while(!found && !q.empty()) {
 }
 ```
 
-Current Life Status:
+### Current Life Status:
 - [x] Go to college
 - [ ] Get intership
 - [ ] Get job in the industry
