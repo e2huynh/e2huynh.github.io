@@ -1,6 +1,6 @@
 # Ethan Huynh, 3rd Year UCSD Student
 
-[That's me](pics/me.jpg)
+![This is me](pics/me.jpg)
 
 > To know your enemy, you must become your enemy.  
 
