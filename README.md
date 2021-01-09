@@ -33,6 +33,11 @@ while(!found && !q.empty()) {
 }
 ```
 
+### Top 3 Upper Divison CSE Course (so far)
+1. CSE 110
+2. CSE 100
+3. CSE 130
+
 ### Current Life Status:
 - [x] Go to college
 - [ ] Get intership

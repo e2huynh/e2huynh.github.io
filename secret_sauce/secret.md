@@ -1,4 +1,4 @@
-[Verse 1]
+##### [Verse 1]
 
 We're no strangers to love
 
@@ -9,14 +9,14 @@ A full commitment's what I'm thinking of
 You wouldn't get this from any other guy
 
 
-[Pre-Chorus 1]
+##### [Pre-Chorus 1]
 
 I just wanna tell you how I'm feeling
 
 Gotta make you understand
 
 
-[Chorus]
+##### [Chorus]
 
 Never gonna give you up
 
@@ -31,7 +31,7 @@ Never gonna say goodbye
 Never gonna tell a lie and hurt you
 
 
-[Verse 2]
+##### [Verse 2]
 
 We've known each other for so long
 
@@ -42,14 +42,14 @@ Inside we both know what's been going on
 We know the game and we're gonna play it
 
 
-[Pre-Chorus 2]
+##### [Pre-Chorus 2]
 
 And if you ask me how I'm feeling
 
 Don't tell me you're too blind to see
 
 
-[Chorus]
+##### [Chorus]
 
 Never gonna give you up
 
@@ -76,7 +76,7 @@ Never gonna say goodbye
 Never gonna tell a lie and hurt you
 
 
-[Post-Chorus]
+##### [Post-Chorus]
 
 (Ooh, give you up)
 
@@ -87,7 +87,7 @@ Never gonna tell a lie and hurt you
 (Ooh) Never gonna give, never gonna give (Give you up)
 
 
-[Bridge]
+##### [Bridge]
 
 We've known each other for so long
 
@@ -98,14 +98,14 @@ Inside we both know what's been going on
 We know the game and we're gonna play it
 
 
-[Pre-Chorus 1]
+##### [Pre-Chorus 1]
 
 I just wanna tell you how I'm feeling
 
 Gotta make you understand
 
 
-[Chorus]
+##### [Chorus]
 
 Never gonna give you up
 
