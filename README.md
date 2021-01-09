@@ -29,5 +29,5 @@ while(!found && !q.empty()) {
 
 Current Life Status:
 - [x] Go to college
-- [] Get intership
-- [] Get job in the industry
+- [ ] Get intership
+- [ ] Get job in the industry
