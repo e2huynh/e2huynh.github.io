@@ -43,6 +43,8 @@ while(!found && !q.empty()) {
 - [ ] Get intership
 - [ ] Get job in the industry
 
+[Part 1 and 2 repository](https://github.com/e2huynh/GitHub-Pages)
+
 [Markdown cheatsheet](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
 
 [secret](secret_sauce/secret.md)
