@@ -1,2 +1,2 @@
-# Ethan Huynh's GitHub Page
+# **Ethan Huynh's GitHub Page**
 ## 3rd Year UCSD Student
