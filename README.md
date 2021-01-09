@@ -1,10 +1,11 @@
 # Ethan Huynh, 3rd Year UCSD Student
 
-## > To know your enemy, you must become your enemy.  
+> To know your enemy, you must become your enemy.  
 
-## -Sun Tzu, *Art of War*
+-Sun Tzu, *Art of War*
 
 ### How to find the shortest unweighted path from one vertex to another:
+##### C++, BFS
 ```
 while(!found && !q.empty()) {
         string node = q.front().first;
@@ -34,3 +35,5 @@ while(!found && !q.empty()) {
 - [x] Go to college
 - [ ] Get intership
 - [ ] Get job in the industry
+
+[Markdown cheatsheet](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
