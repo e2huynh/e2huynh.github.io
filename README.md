@@ -2,7 +2,7 @@
 
 ![This is me](pics/me.jpg)
 
-> To know your enemy, you must become your enemy.  
+> I'm built different.  
 
 -Sun Tzu, *Art of War*
 
@@ -39,3 +39,12 @@ while(!found && !q.empty()) {
 - [ ] Get job in the industry
 
 [Markdown cheatsheet](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
+
+
+
+
+
+
+
+
+[secret](secret_sauce/secret.md)
