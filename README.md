@@ -1,7 +1,7 @@
 # Ethan Huynh's GitHub Page 3rd Year UCSD Student
 
-> To know your enemy, you must become your enemy.
-—Sun Tzu *Art of War*
+> To know your enemy, you must become your enemy.  
+— Sun Tzu *Art of War*
 
 ### How to find the shortest unweighted path from one vertex to another:
 ```
